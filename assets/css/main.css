@@ -134,7 +134,7 @@ input, select, textarea {
 
 	}
 
-	
+
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #777;
@@ -2824,7 +2824,7 @@ input, select, textarea {
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
-						font-size: 18px;
+						font-size: 20px;
 					}
 
 						#header > nav ul li a.active {
@@ -2848,7 +2848,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 2px #2b5378;
+		border-top: solid 4px #2b5378;
 	}
 
 		#main > section > .container {
@@ -3254,6 +3254,8 @@ input, select, textarea {
 				padding: 2em 0 0 0;
 			}
 
+
+	 
 
 
 
